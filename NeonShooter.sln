@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeonShooter", "NeonShooter\NeonShooter\NeonShooter.csproj", "{BD1CA555-4697-44F8-9565-F81DA241AEE3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "NeonShooterContent", "NeonShooter\NeonShooterContent\NeonShooterContent.contentproj", "{BF0A94F9-5DB9-4046-8943-E9D08BA2943F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1CA555-4697-44F8-9565-F81DA241AEE3}.Debug|x86.ActiveCfg = Debug|x86
+		{BD1CA555-4697-44F8-9565-F81DA241AEE3}.Debug|x86.Build.0 = Debug|x86
+		{BD1CA555-4697-44F8-9565-F81DA241AEE3}.Release|x86.ActiveCfg = Release|x86
+		{BD1CA555-4697-44F8-9565-F81DA241AEE3}.Release|x86.Build.0 = Release|x86
+		{BF0A94F9-5DB9-4046-8943-E9D08BA2943F}.Debug|x86.ActiveCfg = Debug|x86
+		{BF0A94F9-5DB9-4046-8943-E9D08BA2943F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
